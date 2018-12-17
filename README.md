@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/BookaZluka/matrixkab.svg?branch=master)](https://travis-ci.org/BookaZluka/matrixkab)
 ## GeneticAlgorithm
 
 Данные программы определяют эксремум функции и генерируют необходимую строку с помощью генетического алгоритма
